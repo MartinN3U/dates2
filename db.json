@@ -1,0 +1,44 @@
+{
+   "Schulungen": [
+		{
+			"id":"001",
+			"name":"Einkauf"
+		},
+		{
+			"id":"002",
+			"name":"Verkauf"
+		},
+   ],
+   
+   "Events": [
+		{
+			"id":"E001",
+			"lecture": "001",
+			"lecture_name": "Einkauf",
+			"place":"Dresden",
+			"date":"30.09.2019 - 01.10.2019"
+		},
+		{
+			"id":"E002",
+			"lecture": "001",
+			"lecture_name": "Einkauf",
+			"place":"Dresden",
+			"date":"05.02.2020 - 06.02.2020"
+		},
+		{
+			"id":"E003",
+			"lecture": "002",
+			"lecture_name": "Verkauf",
+			"place":"Dresden",
+			"date":"04.09.2019 - 05.09.2019"
+		},
+		{
+			"id":"E004",
+			"lecture": "002",
+			"lecture_name": "Verkauf",
+			"place":"Dresden",
+			"date":"29.01.2020 - 30.01.2020"
+		}
+   ]
+   
+}
