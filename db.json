@@ -2,11 +2,59 @@
    "Schulungen": [
 		{
 			"id":"001",
-			"name":"Einkauf"
+			"name":"Grundlagen, Handling, Stammdaten"
 		},
 		{
 			"id":"002",
 			"name":"Verkauf"
+		},
+		{
+			"id":"003",
+			"name":"Einkauf"
+		},
+		{
+			"id":"004",
+			"name":"Disposition & Fertigungsplanung 1"
+		},
+		{
+			"id":"005",
+			"name":"Disposition & Fertigungsplanung 2"
+		},
+		{
+			"id":"006",
+			"name":"Lagerwirtschaft"
+		},
+		{
+			"id":"007",
+			"name":"Administration"
+		},
+		{
+			"id":"008",
+			"name":"Erweiterte Administration"
+		},
+		{
+			"id":"009",
+			"name":"FOP I Grundlagen"
+		},
+		{
+			"id":"010",
+			"name":"FOP II Ereignisgesteuerte Programme"
+		},
+		{
+			"id":"011",
+			"name":"FOP III Infosysteme"
+		},
+		{
+			"id":"012",
+			"name":"Finanzbuchhaltung Basis"
+		},
+		{
+			"id":"013",
+			"name":"Finanzbuchhaltung Aufbau"
+		},
+		{
+			"id":"014",
+			"name":"Anlagenbuchhaltung"
 		}
    ],
    
@@ -14,30 +62,65 @@
 		{
 			"id":"E001",
 			"lecture": "001",
-			"lecture_name": "Einkauf",
+			"lecture_name": "Grundlagen, Handling, Stammdaten",
 			"place":"Dresden",
 			"date":"30.09.2019 - 01.10.2019"
 		},
 		{
 			"id":"E002",
-			"lecture": "001",
-			"lecture_name": "Einkauf",
-			"place":"Dresden",
-			"date":"05.02.2020 - 06.02.2020"
-		},
-		{
-			"id":"E003",
 			"lecture": "002",
 			"lecture_name": "Verkauf",
 			"place":"Dresden",
 			"date":"04.09.2019 - 05.09.2019"
 		},
 		{
-			"id":"E004",
+			"id":"E003",
 			"lecture": "002",
 			"lecture_name": "Verkauf",
 			"place":"Dresden",
 			"date":"29.01.2020 - 30.01.2020"
+		},
+		{
+			"id":"E004",
+			"lecture": "003",
+			"lecture_name": "Einkauf",
+			"place":"Dresden",
+			"date":"30.09.2019 - 01.10.2019"
+		},
+		{
+			"id":"E005",
+			"lecture": "003",
+			"lecture_name": "Einkauf",
+			"place":"Dresden",
+			"date":"05.02.2020 - 06.02.2020"
+		},
+			{
+			"id":"E006",
+			"lecture": "004",
+			"lecture_name": "Disposition & Fertigungsplanung 1",
+			"place":"Dresden",
+			"date":"10.10.2019"
+		},
+			{
+			"id":"E007",
+			"lecture": "004",
+			"lecture_name": "Disposition & Fertigungsplanung 1",
+			"place":"Dresden",
+			"date":"11.03.2020"
+		},
+			{
+			"id":"E008",
+			"lecture": "005",
+			"lecture_name": "Disposition & Fertigungsplanung 2",
+			"place":"Dresden",
+			"date":"11.10.2019"
+		},
+			{
+			"id":"E009",
+			"lecture": "005",
+			"lecture_name": "Disposition & Fertigungsplanung 2",
+			"place":"Dresden",
+			"date":"12.03.2020"
 		}
    ]
    
